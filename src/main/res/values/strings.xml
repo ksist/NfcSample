@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Suica読取</string>
+    <string name="title_rireki_list">乗車履歴</string>
+    <string name="title_rireki_detail">乗車履歴 詳細</string>
+</resources>
